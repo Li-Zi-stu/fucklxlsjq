@@ -1,8 +1,3 @@
-/**
- * 选分弹窗
- * @type {number}
- */
-
 if (selectModal) {
   let extraScoreStr = '';
   while (isNaN(parseInt(extraScoreStr))) {
@@ -4181,9 +4176,9 @@ function fucksjqlxl(){
     console.log("%c%c名言警句%clbwnb!","line-height:28px;","line-height:28px;padding:4px;background:#222;color:#fff;font-size:16px;margin-right:15px","color:#008000;line-height:28px;font-size:16px;");
 Swal.fire({
   icon: 'warning',
-  title: '对罗湘龙和石嘉谦的话：',
+  title: '对玩家的话：',
   text: '',
-  html: '<center><b>罗湘龙你奶奶的腿被石嘉谦日穿了</b></center>' +
+  html: '<center><b>⚠⚠⚠罗湘龙你奶奶的腿被石嘉谦日穿了⚠⚠⚠</b></center>' +
   '(Tip:右上角按钮可以切换图片)'+
   '<center><a href="https://blog.csdn.net/allofhuan/article/details/53325829" style="color:#239BF5;" target="_blank">电脑端怎么玩？</a></center>',
   imageUrl: 'https://api.libw.cc/api/sucai/lxl_sjq.php',
